@@ -1,6 +1,6 @@
 // Vex functions for print data variables
 
-// Save this file to ~/houdinixx.x/vex/include/p.h
+// Save this file to ~/houdinixx.x/vex/include/prv_pra.h
 
 // New vex using with global disable:
 
